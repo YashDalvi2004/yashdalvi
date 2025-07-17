@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Yash%20Dalvi&fontSize=40&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7D2AE8,100:00F7FF&height=180&section=header&text=Yash%20Dalvi&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h2 align="center">Software Developer | AI Research | Cybersecurity | Cloud & Data</h2>
