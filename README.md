@@ -1,32 +1,34 @@
-<h1 align="center">Yash Dalvi</h1>
-
-<p align="center"><strong>Full Stack Developer | AI Research Enthusiast | Cybersecurity Learner | Cloud & Data Practitioner</strong></p>
-
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7D2AE8&height=140&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Yash%20Dalvi&fontSize=40&fontAlign=50&fontColor=ffffff" />
+</p>
+
+<h2 align="center">Software Developer | AI Research | Cybersecurity | Cloud & Data</h2>
+<p align="center">
+  <em>“Building meaningful technology with code that’s clean, scalable, and future-ready.”</em>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧭 About Me
 
-I am a dedicated technology student with a strong foundation in web development, artificial intelligence, and cybersecurity. With a mindset focused on innovation and continuous learning, I specialize in designing scalable systems and building intelligent applications that align with the future of technology.
+I’m a passionate developer with a multidisciplinary approach to technology. My work combines strong problem-solving with creative design thinking and technical depth. Currently focused on:
 
-I am currently advancing my skills in:
-- Full Stack Development (React, Node.js, MongoDB)
-- Generative AI and Large Language Models (OpenAI, Langchain)
-- Azure Cloud, SQL & Data Analysis
-- Modern cybersecurity practices and secure coding
+- Full Stack Web Development (MERN Stack)
+- Generative AI and LLM-based Applications
+- Secure Web Architecture & Cybersecurity
+- Cloud & Data (Azure, SQL, Data Analytics)
 
-I aim to combine clean code architecture with creative problem-solving to deliver meaningful software.
+🧠 Always learning. 🚀 Always building.  
+📍 Based in India | 🌐 Open to remote collaborations
 
 ---
 
-## 🧠 Core Tech Stack
+## 🛠️ Technology Stack
 
-```text
-Languages       :: HTML • CSS • JavaScript • Python • C++ • SQL
-Frontend        :: React.js • Tailwind CSS • Responsive UI
-Backend         :: Node.js • Express • REST APIs • MongoDB
-Cloud & Tools   :: Azure • Git & GitHub • Firebase • Postman
-AI/ML & Data    :: Generative AI • OpenAI API • Pandas • NLP • Data Analysis
+```txt
+Languages       :: HTML, CSS, JavaScript, Python, C++, SQL
+Frontend        :: React.js, Tailwind CSS, SCSS, Responsive UI
+Backend         :: Node.js, Express.js, REST APIs, MongoDB
+DevOps & Tools  :: Git, GitHub, Azure, Firebase, Postman
+AI/Data Science :: Gen AI, OpenAI API, Pandas, NLP, Data Analysis
